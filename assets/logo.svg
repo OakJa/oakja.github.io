@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 256 256" role="img" aria-label="โลโก้แว่นตาอัจฉริยะ">
+  <rect width="256" height="256" rx="32" fill="#0b3d91"/>
+  <g fill="#fff">
+    <circle cx="86" cy="128" r="38"/>
+    <circle cx="170" cy="128" r="38"/>
+    <rect x="36" y="118" width="184" height="20" rx="10" />
+  </g>
+</svg>
